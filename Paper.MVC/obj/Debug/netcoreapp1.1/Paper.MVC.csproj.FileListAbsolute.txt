@@ -1,0 +1,8 @@
+/Users/pivotal/workspace/Paper/Paper.MVC/bin/Debug/netcoreapp1.1/Paper.MVC.deps.json
+/Users/pivotal/workspace/Paper/Paper.MVC/bin/Debug/netcoreapp1.1/Paper.MVC.runtimeconfig.json
+/Users/pivotal/workspace/Paper/Paper.MVC/bin/Debug/netcoreapp1.1/Paper.MVC.runtimeconfig.dev.json
+/Users/pivotal/workspace/Paper/Paper.MVC/bin/Debug/netcoreapp1.1/Paper.MVC.dll
+/Users/pivotal/workspace/Paper/Paper.MVC/bin/Debug/netcoreapp1.1/Paper.MVC.pdb
+/Users/pivotal/workspace/Paper/Paper.MVC/obj/Debug/netcoreapp1.1/Paper.MVC.AssemblyInfo.cs
+/Users/pivotal/workspace/Paper/Paper.MVC/obj/Debug/netcoreapp1.1/Paper.MVC.dll
+/Users/pivotal/workspace/Paper/Paper.MVC/obj/Debug/netcoreapp1.1/Paper.MVC.pdb

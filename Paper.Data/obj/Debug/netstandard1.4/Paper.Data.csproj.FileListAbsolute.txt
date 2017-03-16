@@ -1,0 +1,6 @@
+/Users/pivotal/workspace/Paper/Paper.Data/bin/Debug/netstandard1.4/Paper.Data.deps.json
+/Users/pivotal/workspace/Paper/Paper.Data/bin/Debug/netstandard1.4/Paper.Data.dll
+/Users/pivotal/workspace/Paper/Paper.Data/bin/Debug/netstandard1.4/Paper.Data.pdb
+/Users/pivotal/workspace/Paper/Paper.Data/obj/Debug/netstandard1.4/Paper.Data.AssemblyInfo.cs
+/Users/pivotal/workspace/Paper/Paper.Data/obj/Debug/netstandard1.4/Paper.Data.dll
+/Users/pivotal/workspace/Paper/Paper.Data/obj/Debug/netstandard1.4/Paper.Data.pdb
